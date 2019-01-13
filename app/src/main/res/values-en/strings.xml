@@ -1,0 +1,461 @@
+<resources>
+    <string name="setting_language_auto">Follow System</string>
+
+    <string name="app_name">CoinPlay</string>
+    <string name="mine">Mine</string>
+    <string name="open_play_record">Open Result</string>
+    <string name="config">Sure</string>
+    <string name="cancel">Cancel</string>
+    <string name="today">today</string>
+    <string name="year">Year</string>
+    <string name="month">Month</string>
+    <string name="day">Day</string>
+    <string name="house">Hour</string>
+    <string name="minute">Minute</string>
+    <string name="second">Second</string>
+    <string name="buy_success">Buy Success</string>
+    <string name="withdrawcash">Withdrawal</string>
+    <string name="pay">Pay</string>
+    <string name="save">Save</string>
+    <string name="system_pay">System Pay</string>
+    <string name="system_give">System Give</string>
+    <string name="sure">Confirm</string>
+    <string name="complete">Accomplish</string>
+
+    <string name="language">English</string>
+    <string name="toast_language_change">The language has been set up successfully</string>
+    <string name="CompanyProfile">CompanyProfile</string>
+
+    <string name="companyprofile_info">Jiundefinednan multiplied by a few Network Technology Co., Ltd. was established on 12 06 of 2018, a high-tech enterprise mainly engaged in the development of network technology, and the registered capital of the company is 1 million. The companyundefineds operating scope includes: software design and development, production, sales (without medical software); computer network system engineering services; web design; electronic commerce. Technical development of letter system and automation control system; information technology consulting service;<br />The company respects the talent, thinks that "man" is the most valuable asset of the enterprise, individual development is the foundation of enterprise development, individual innovation is the source of enterprise innovation. We strive to make work a happy thing, reject "bureaucracy" and form N, advocate learning, mutual help, enlightened, simple. At the same time, the company buys five for employees. Insurance, including meals, transportation, communications, holiday benefits, paid annual leave, fund incentive system and other benefits to ensure that all the "wealth" of the company is able to get it and do its best.</string>
+    <string name="ContactUs">Contact Us</string>
+    <string name="EnterpriseMail">QQ Customer Service 212238526</string>
+    <string name="Edition">Current Version</string>
+
+    <string name="Termnumber">Issue</string>
+    <string name="Openprice">Opening Price</string>
+    <string name="Openprice1">Opening Price</string>
+    <string name="Awardprice">Award Price</string>
+    <string name="Awardprice1">StopPrice</string>
+    <string name="Oldpassword">Original Password</string>
+    <string name="Newpassword">New Password</string>
+    <string name="EnterOldpassword">Please enter the old password(8-18 letters and numbers) </string>
+    <string name="EnterNewpassword">Please enter the new password(8-18 letters and numbers) </string>
+    <string name="ReEnterNewpassword">Please reconfirm the new password(8-18 letters and numbers)</string>
+    <string name="Forgetpassword">Forget the old password？</string>
+    <string name="Forgetpassword1">Forget the password</string>
+
+    <string name="ChooseAddress">Select Address</string>
+    <string name="AddAddress">Add the address</string>
+    <string name="FeedBackInfo">Please describe your questions or suggestions in detail, and we will follow up the solutions in time. (suggest adding related question screenshots) </string>
+    <string name="Submission">Submission</string>
+    <string name="EnterRegisterPhoneNum">Please enter the number of mobile phones at the time of registration</string>
+    <string name="EnterPhoneNum">Please enter the phone number</string>
+    <string name="SendCode">Send the verifying code</string>
+    <string name="GetCode">Get the verifying code</string>
+    <string name="VerificationCode">Phone Verification Code</string>
+    <string name="imagecode">Picture verification code</string>
+    <string name="EnterCode">Please enter the verification code</string>
+    <string name="SetNewPassword">Set up a new password</string>
+    <string name="SetNewPassword1">Set up a new password(8-18 letters and numbers)</string>
+    <string name="mail">Mail</string>
+    <string name="password">Password(8-18 letters and numbers)</string>
+    <string name="login">Login</string>
+    <string name="NewUserRegister">New user registration</string>
+    <string name="Home">Home</string>
+    <string name="AwardResult">Award Results</string>
+    <string name="InvitingAwards">Inviting Awards</string>
+    <string name="Mine">Mine</string>
+    <string name="DetailsOfTheRecharge">Understand the details of the recharge</string>
+    <string name="RechargeAddressOfETH">ETH add：</string>
+    <string name="RechargeAddressOfEOS">EOS add：</string>
+
+    <string name="CopyAddress">Copy</string>
+    <string name="Show2DCode">QR code</string>
+    <string name="ListOfRecharge">Recharge Record </string>
+    <string name="CountdownOfAward">Lottery Countdown</string>
+    <string name="buy">Buy</string>
+    <string name="date">Date</string>
+    <string name="AmountOfRemaid">Commission Charges</string>
+    <string name="phone">Phone Num</string>
+    <string name="phone1">Phone Num</string>
+    <string name="RecommenderID">Recommender ID</string>
+    <string name="IAgreeWithCoinPlay">I agree with CoinPlay</string>
+    <string name="ServiceAgreement">《User Agreement》</string>
+    <string name="Register">Register</string>
+    <string name="AccountAndSecurity">Account Security</string>
+    <string name="ReceiveMessage">Receive push notification</string>
+    <string name="FeedBack">FeedBack</string>
+    <string name="SafeExit">Safe Exit</string>
+    <string name="SendtoPhoneNum">It has been sent to the phone number</string>
+    <string name="NotReceiveCode">No verification code？</string>
+    <string name="ReSend">Resend</string>
+    <string name="MakeSureToPay">Confirmation of payment</string>
+    <string name="Phase">Issue</string>
+    <string name="AvailableAssets">Available Assets</string>
+    <string name="AmountOfCash">Amount of cash </string>
+    <string name="FullPresentation">Full presentation</string>
+    <string name="AddressOfPresentation">Withdrawal Address:</string>
+    <string name="ServiceCharge">Service Charge：</string>
+    <string name="ActualAccount">Actual Account：</string>
+    <string name="RecordOfPresentation">Present Record</string>
+    <string name="rise">Rise</string>
+    <string name="flat">Flat</string>
+    <string name="fall">Fall</string>
+    <string name="AmountOfBuy">Purchase quantity</string>
+    <string name="NetworkConnectionInterruption">Network connection interruption</string>
+    <string name="Reconnect">Reconnect</string>
+    <string name="GetCommission">Get a commission</string>
+    <string name="ShowTheList">Show the list</string>
+    <string name="HideTheList">Hide the list</string>
+    <string name="ShareReward">Sharing courtesy</string>
+    <string name="AddressOfRecommend">Recommended address</string>
+    <string name="address">Address</string>
+    <string name="QRCode">QRCode</string>
+    <string name="FriendsOfRecommend">The friends that has been recommended</string>
+    <string name="Commission">Obtained Commission</string>
+    <string name="DetailedRules">Rules of the game</string>
+    <string name="EnterpriseInfo">\u00201. After successfully registering and downloading, receive 188 TOKEN(PT) free of charge. \n
+2. All 100 % of the 1 % of the player is winning bonus will be returned to all levels of invitees. \n
+3. Registered players enjoy the 18PT interest of inviting 1 person and do not enjoy bonus rewards. \n
+4. Brass players enjoy an invitation to 1 person to obtain 88PT rights and enjoy a 50 % dividend interest. \n
+5. Silver players enjoy an 188PT interest in inviting 1 person and enjoy 50 % of the first grade and 30 % of the second grade dividends. \n
+6. Black gold players enjoy the right to invite 1 person to 288PT, enjoy 50 % of the first grade, 30 % of the second grade, and 20 % of the third grade dividends. \n
+7. The acquired TOKEN(PT) can participate in the Platform's specified activities. </string>
+    <string name="Attention">Particular attention</string>
+    <string name="AttentionInfo">In order to establish a healthy and orderly experience environment, CoinPlay reserves the right to make adjustments to the return rules at any time. </string>
+    <string name="NowBetting">Current investment </string>
+    <string name="MyBetting">My forecast</string>
+    <string name="MyGuessing">My forecast</string>
+    <string name="MyWinning">My Winning</string>
+    <string name="InvitingRebate">InvitingRebate</string>
+    <string name="InvitingRebate1">Rebate</string>
+    <string name="Maiist">Maid List</string>
+    <string name="TheLatestAward">The latest award</string>
+    <string name="Login">Login</string>
+    <string name="ChangePassword">Change the password</string>
+    <string name="Language">Language</string>
+    <string name="About">About</string>
+    <string name="WinningRecord">Forecast record</string>
+    <string name="bonus">Bonus</string>
+    <string name="EverydayBonus">Everyday Bonus</string>
+
+    <string name="catchCoinRecord">Rob coin record</string>
+    <string name="BettingRecord">Forecast record</string>
+    <string name="CacheClear">Clear cache</string>
+    <string name="TotalAssets">(Balance)</string>
+    <string name="BalanceOfToken">(Balance)</string>
+    <string name="Setting">Setting</string>
+    <string name="Latestprize">The latest award</string>
+    <string name="PrizePoolAmount">Pool amount(ETH)</string>
+    <string name="JoinUser">Num of participants</string>
+
+    <string name="rob_record">Record of participation</string>
+    <string name="win_coin_record">Award winning record</string>
+    <string name="PrizePool">Prize pool of CoinPlay</string>
+
+
+    <string name="ImmediateBetting">Forecast now</string>
+    <string name="ImmediateAward">Prize now</string>
+    <string name="TokenBetting">PT Forecast</string>
+    <string name="ETHBetting">ETH Forecast</string>
+    <string name="LoadMore">LoadMore...</string>
+    <string name="BettingOrAward">Forecast/Award</string>
+    <string name="OpeningLine">OpeningLine</string>
+    <string name="BTCPrice">BTCPrice</string>
+    <string name="Nowprice">Current Price</string>
+    <string name="NextRound">NextRound</string>
+    <string name="invite">Invitation Interest</string>
+
+    <string name="user">Welcome,</string>
+    <string name="about">About</string>
+    <string name="win_record">Winning Record</string>
+    <string name="bet_record">Forecast Record</string>
+    <string name="betting_history">Forecast history</string>
+    <string name="token">PT</string>
+    <string name="eth">ETH</string>
+
+
+    <string name="buy1">Buy</string>
+    <string name="won">Won</string>
+    <string name="invite_dividend">Invitation for winning dividends</string>
+    <string name="invite_dividend1">First dividend</string>
+    <string name="invite_dividend2">Second dividend</string>
+    <string name="invite_dividend3">Third dividend</string>
+    <string name="pay_back">Recharge Award</string>
+    <string name="change_nick">Change Nick</string>
+    <string name="dividend">Dividend</string>
+    <string name="withdrawaling">Withdrawaling</string>
+    <string name="success">Success</string>
+    <string name="fail">Withdrawal fail</string>
+    <string name="registration_award">Registration Award</string>
+    <string name="invitation_awards">Invitation Awards</string>
+    <string name="betting_awards">Betting Awards</string>
+
+    <string name="freeze">Freeze</string>
+    <string name="unknown">Unknown</string>
+
+    <string name="token_betting">PT Forecast</string>
+    <string name="eth_betting">ETH Forecast</string>
+    <string name="betting_countdown">Forecast Countdown</string>
+    <string name="win_countdown">Win Countdown</string>
+    <string name="next_roud">Next Round</string>
+    <string name="open_line">Open Line</string>
+    <string name="btc_price">BTC Price</string>
+    <string name="notice_home">Win big prizes,One minute,Absolutely exciting</string>
+    <string name="win_detail">Win Detail</string>
+    <string name="confirm_withdrawal">Confirm Withdrawal</string>
+    <string name="notice_withdrawal">* Minimum quantity of recharge: 0.1 ETH. \n
+* After a successful recharge, it is recorded within 30 minutes. \n
+* Incorrect filling of the recharge address, resulting in a failure of recharge, which can not be recovered.</string>
+    <string name="notice_pay">* Please do not directly withdraw to the address of crowdfunding or ICO. After the withdrawal request application is successful, please go to the email and click the link to confirm the withdrawal request.</string>
+    <string name="register">Register</string>
+    <string name="disagree">You did not agree to the service agreement</string>
+    <string name="true_phone_num">Please enter your cell phone number correctly</string>
+    <string name="resend">Resend</string>
+
+    <string name="sms">SMS Verifier</string>
+    <string name="send_to_phone">Sent to cell phone number</string>
+    <string name="s_resend">s send again</string>
+    <string name="price_not_null">Enter amount can not be empty</string>
+    <string name="not_receive_sms">No verification code received？</string>
+    <string name="withdrawal_success">Extraction successful</string>
+    <string name="withdrawal_fail">Loss of cash withdrawal</string>
+    <string name="change_psw_success">Password modification successful</string>
+    <string name="change_psw_fail">Failed to change password</string>
+    <string name="psw_not_same">The passwords entered twice did not match.</string>
+    <string name="pws_length">Password length 6-18 bit</string>
+
+    <string name="friends">Recommended friends</string>
+    <string name="limit_hint">Limit/Tip</string>
+    <string name="choose_address">Please select the withdrawal address</string>
+    <string name="day_limit">Daily Limit: 10 ETH</string>
+    <string name="min_limit">Minimum Limit: 0.1 ETH</string>
+    <string name="day_used">Used today:</string>
+
+    <string name="address_recommend">Recommended Address：</string>
+    <string name="id_recommend">Recommended ID：</string>
+    <string name="copy_success">Copy success</string>
+    <string name="QRcode">Qr code</string>
+    <string name="pay_tip">Charging Tips</string>
+    <string name="link_invite">The link of inviting friends</string>
+
+    <string name="input_amount">Please enter the withdrawal amount</string>
+    <string name="not_enough_amount">The amount you entered is insufficient</string>
+    <string name="choose_withdrawal_address">Please select the withdrawal address</string>
+    <string name="check_address">Please check if the withdrawal address is correct</string>
+
+    <string name="rule_top_up">Top-up rules</string>
+    <string name="iknow">I Know</string>
+    <string name="rules_top_up">1. Minimum recharge amount: 0.1ETH\n2. After successful recharge, it will be recorded within 30 minutes. \n 3. Incorrect recharge address, which leads to failed recharge, cannot be returned.</string>
+    <string name="rules_top_up_eos">1. Minimum recharge amount: 0.1EOS\n2. After successful recharge, it will be recorded within 30 minutes. \n 3. Incorrect recharge address, which leads to failed recharge, cannot be returned.</string>
+    <string name="login_success">Login success</string>
+
+    <string name="forget_password">Forget Password</string>
+    <string name="change_password_success">Password modification successful</string>
+    <string name="change_password_fail">Password modification failed</string>
+    <string name="phone_not_null">Cell phone number not be empty</string>
+    <string name="input_right_phone">Please enter the correct cell phone number</string>
+    <string name="code_not_null">The verification code is incorrect</string>
+    <string name="newpassword_not_null">The new password does not match.</string>
+
+    <string name="null_to_share">There is nothing to share.</string>
+    <string name="coin_play_invite">Sign up for CoinPlay Daily Divide</string>
+    <string name="link">CoinPlay serves as an innovative block chain generation mechanism platform, providing users with services such as forecasting, professional K-line, real-time quotes, asset promotion, and resource sharing in turn, providing participating users with professional knowledge, full experience, and actual asset value.</string>
+    <string name="person"> Person</string>
+    <string name="my_balance">My balance</string>
+    <string name="input_address">Please input your address</string>
+    <string name="quit">Click again to exit the application</string>
+
+    <string name="congratulations">Congratulations, you won the round</string>
+    <string name="round_again">One more round.</string>
+    <string name="sorry">I am sorry, we did not win the round</string>
+    <string name="mailbox_not_null">Mailbox can not be empty</string>
+
+
+    <string name="select_bet_type">Please select forecast type</string>
+    <string name="input_bet_amount">Please enter the forecast amount</string>
+    <string name="In_progress">In progress</string>
+    <string name="Added">The address has been added</string>
+    <string name="load">Loading...</string>
+    <string name="bet_detail">Forecast details</string>
+    <string name="share_success">Sharing success</string>
+    <string name="share_cancel">Cancel sharing</string>
+    <string name="share_fail">Share Failure</string>
+    <string name="link_timeout">Network link timeout</string>
+    <string name="invite_list">Invitation Awards List</string>
+    <string name="password_not_null">Code entry does not meet the requirements</string>
+
+    <string name="register_success">Congratulations on your registration.！</string>
+    <string name="mail_send">Activate mail has been sent to your mailbox, please go to the mailbox to activate</string>
+    <string name="download">download</string>
+    <string name="resend_mail">No mail? Resend</string>
+
+
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="calculate_detail">Calculate Details</string>
+    <string name="catch_prize">Winner Prize</string>
+    <string name="catch_detail">Details of Collections</string>
+    <string name="luck_num">My Lucky Code</string>
+    <string name="open_detail">Award Details</string>
+    <string name="prewinner">Previous winners</string>
+    <string name="luck">lucky</string>
+    <string name="num">number</string>
+    <string name="value">value</string>
+    <string name="need_person">Total need Num for commodities</string>
+    <string name="need_person_num">Total need Num for commodities</string>
+    <string name="num1">value</string>
+    <string name="remainder">︵Draw remainder︶</string>
+    <string name="add_pre_num">Add the number of real-time lottery results</string>
+    <string name="calculate_result">Calculation results</string>
+    <string name="eth_detail">The Ether, code ETH, can be traded on the foreign exchange market of many encrypted currencies, and is also the medium used by Etherfield to pay transaction fees and calculation service fees.</string>
+    <string name="pt_detail">The CoinPlay Ecological Substitute(PT), code PT, is a CoinPlay system based on the Etaifang-based token, with interest in CoinPlay ecology.</string>
+    <string name="eos_detail">The grapefruit coin(EOS), code EOS, is a token issued on the EOS software project and can be traded on the foreign exchange market of many encrypted currencies.</string>
+
+    <string name="total_need">Total requirements</string>
+    <string name="person_num">person</string>
+    <string name="surplus">surplus</string>
+    <string name="you_not_participate">You did not participate in the acquisition of currency</string>
+    <string name="all_records">All participation records</string>
+    <string name="Immediate_participate">Immediate participation</string>
+    <string name="open_prize">Prize awarded</string>
+    <string name="automatic_award">After winning the award, Bonus automatically sends the award to the account balance</string>
+    <string name="issue">Issue number:</string>
+    <string name="open_time">Award time:</string>
+    <string name="choose_person">Chosen One:</string>
+    <string name="luck_num1">Lucky number:</string>
+    <string name="current_participate">Current participation:</string>
+    <string name="look_detail">View Details</string>
+
+
+    <string name="winner">Winners:</string>
+    <string name="btc_forecast">BTC Quotation Forecast(ETH)</string>
+    <string name="pt_forecast">BTC Quotation Forecast(PT)</string>
+    <string name="deadline">Deadline</string>
+    <string name="eth_1">Ether(ETH) 1</string>
+    <string name="eth_0.01">Participate in a single 0.01 ETH</string>
+    <string name="seize">seize</string>
+    <string name="progress">schedule：</string>
+
+    <string name="participate">Involved</string>
+
+    <string name="rob_coin">Rob Coin</string>
+    <string name="rob_coin_win">Won the lottery</string>
+    <string name="rob_coin_prize">Coin Award</string>
+    <string name="rob_coin_consume">Coin consume</string>
+
+
+    <string name="once">Once</string>
+
+
+    <string name="reward">reward</string>
+    <string name="newVersion">New version found  </string>
+    <string name="installation_package_deleted">Installation package deleted</string>
+    <string name="upgradeNow">Upgrade immediately</string>
+    <string name="install">install</string>
+    <string name="downloading">Downloading</string>
+    <string name="upgradeFail">The update failed, please check the network connection</string>
+
+    <string name="modifyMailbox">Modify Mailbox</string>
+    <string name="confirmationChange">Confirmation of changes</string>
+    <string name="resendSuccess">Resend successful</string>
+    <string name="changeMailSuccess">Modifying mailbox successful</string>
+
+    <string name="nextTime">Next time</string>
+    <string name="updateNow">Update immediately</string>
+
+
+    <string name="amount_not_enough">Current balance is not enough. Go recharge.</string>
+    <string name="pay_now">Immediate recharge</string>
+    <string name="di">No.</string>
+    <string name="qi"></string>
+    <string name="get_dividends">Bonus bonus</string>
+    <string name="share_now">Share now</string>
+    <string name="psw_is_not">The new password does not match.</string>
+    <string name="getSuccess">Recipient success！</string>
+    <string name="congratulate">Congratulations on winning the lottery！</string>
+    <string name="sorry_not_prize">I am sorry you did not win！</string>
+
+
+    <string name="eth_area">ETH Special Area</string>
+    <string name="pt_area">PT Special Area</string>
+    <string name="eos_area">EOS Special Area</string>
+    <string name="look_more_play">Check more sites</string>
+    <string name="rob_coin_area">Coin collecting area</string>
+    <string name="copy">copy</string>
+    <string name="remark">remark：</string>
+    <string name="remark2">remark</string>
+    <string name="address_2d">address 2D code</string>
+    <string name="remark_2d">remark 2D code</string>
+    <string name="you_join_already">You have been involved</string>
+    <string name="eth_person">ETH/Person time</string>
+    <string name="this_end">The current round is over</string>
+    <string name="not_more_than_this_play">No more than the remaining number of persons in this round </string>
+    <string name="not_more_than_this_play_half">It should not exceed half of the total amount of this round</string>
+    <string name="all_property">total assets</string>
+    <string name="balance">(balance)</string>
+    <string name="not_more_than_6">You may not select more than six currencies</string>
+    <string name="at_last_1">Keep at least one currency</string>
+    <string name="currency6_show">Up to 6 common currency displays can be added</string>
+    <string name="add_already">Added</string>
+    <string name="delete">/Remove</string>
+    <string name="add">add</string>
+    <string name="add_currency">Add Currency</string>
+    <string name="text_v1">General user</string>
+    <string name="text_v2">Brass user</string>
+    <string name="text_v3">Silver users</string>
+    <string name="text_v4">Black gold users</string>
+
+    <string name="xrp_withdrawal_info">\u00201. Please confirm whether the target coin address exists and is activated, otherwise it will cause the coin to fail and the assets will not be recovered. \n
+2. Be sure to check the address label carefully, otherwise it will cause loss of assets and can not be recovered. \n
+3. Be sure to ensure the environment is safe and prevent information from being tampered with or leaked.</string>
+
+    <string name="xlm_withdrawal_info">\u00201. Only tokens with an address label of MEMO_TEXT are supported, and other types of address labels \n
+        are not supported for the time being
+2. Please confirm that the target coin address exists and is activated, otherwise it will cause the coin to fail and the assets will not be recovered. \n
+3. Be sure to check the address label carefully, otherwise it will cause loss of assets and can not be recovered. \n
+4. Be sure to ensure the environment is safe and prevent information from being tampered with or leaked.</string>
+
+    <string name="eth_withdrawal_info">\u00201. Please do not withdraw money directly to ICO crowdfunding address, which will result in your inability to collect digital assets raised by crowdfunding. \n
+        2. Withdrawal of money to the contract address may result in failure of contract execution, failure of transfer and return of assets. \n
+        3. Please make sure that the withdrawal environment is safe to prevent tampering or disclosure of information.</string>
+
+
+    <string name="eth_pay_info">\u00201. Do not recharge any non-eth asset at the above address, or the asset will not be retrieved. \n
+        2. Minimum recharge amount: 0.1 ETH, recharge less than the minimum amount will not be recorded and cannot be returned. \n
+        3. Please make sure that the recharge environment is safe to prevent tampering or disclosure of information.</string>
+
+    <string name="eos_pay_info">\u00201. Do not recharge any non-eos assets at the above address, otherwise the assets will not be recovered. \n
+        2. Please be sure to fill in and check the address label carefully, which is the unique identification of your account, otherwise the asset will not be recovered. \n
+        3. Minimum recharge amount: 0.1 EOS. Recharge less than the minimum amount will not be recorded and cannot be returned. \n
+        4. Please make sure that the recharge environment is safe to prevent tampering or disclosure of information.</string>
+
+
+    <string name="eos_withdrawal_info">\u00201. Please confirm that the withdrawal address exists and is activated, otherwise the withdrawal will fail and the asset cannot be recovered. \n
+        2. Please make sure to check the address label carefully, otherwise the asset will be lost and cannot be recovered. \n
+        3. Please make sure that the withdrawal environment is safe to prevent tampering or disclosure of information.</string>
+
+
+    <string name="instruction">1. Select the currencies and venues involved. \n
+        2. Choose the number of participants to participate, one participant can get a lucky code, not more than 50% of the total number. \n
+        3. The participating tokens are the same as the participating coins. \n
+        4. when the participants are satisfied with the opening conditions, they will immediately open the lottery. \n
+        5. After the prize is opened, the prize will be paid to the recipient's account immediately (5% Commission is deducted for each winning prize), and a new period of participation will be started. \n
+        6. platform will return most of the service fees to community contributors and PT holders. </string>
+
+    <string name="rules_get_bonus">Level 1 is an ordinary user and enjoys an 18PT interest in inviting 1 person; \n
+Level 2 users are junior players, who enjoy an invitation to 1 person to 88 PT, and a 5 % bonus interest in the A area to invite people to win the bonus, for a total of 5 %. \n
+Level 3 users are mid-level players, and 1 person is invited to 188pt. In addition, 5 % of Area A invitees win the bonus and 3 % of Area B invitees win the bonus, for a total of 8 %. \n
+Level 4 users are senior players. They enjoy an invitation of 288pt, another 5 % of Area A invitees to win bonuses, 3 % of Area B invitees to win bonuses, and 2 % of Area C invitees to win bonuses, for a total of 10 %.
+(Area A represents a direct inviter, Area B represents a direct inviter in Area A, and Area C represents a direct inviter in Area B).</string>
+    <string name="get_now">get now</string>
+
+
+    <string name="min_withdrawal">Minimum withdrawal amount:</string>
+    <string name="max_withdrawal">Daily withdrawal limit:</string>
+    <string name="can_withdrawal_amount">Deductable amount</string>
+    <string name="can_not_withdrawal">Not available</string>
+    <string name="receive_amount">Receipt account:</string>
+
+
+</resources>

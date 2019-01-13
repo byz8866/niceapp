@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:skin="http://schemas.android.com/android/skin"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".main.activity.MainActivity">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <LinearLayout
+        android:id="@+id/ll_tab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:orientation="horizontal"
+        android:paddingBottom="2dp"
+        android:paddingTop="5dp">
+
+        <TextView
+            android:id="@+id/tvHome_main"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawablePadding="2dp"
+            android:drawableTop="@drawable/ic_tab_home_selector"
+            android:gravity="center"
+            android:text="@string/Home"
+            android:textColor="@color/text_selector"
+            android:textSize="10dp"
+            skin:attrs="drawableTop|textColor"
+            skin:enable="true"
+            tools:ignore="MissingPrefix" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawablePadding="2dp"
+            android:drawableTop="@drawable/ic_tab_home_selector"
+            android:gravity="center"
+            android:text="@string/AwardResult"
+            android:textColor="@color/text_selector"
+            android:textSize="10dp"
+            skin:enable="true"
+            tools:ignore="MissingPrefix" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawablePadding="2dp"
+            android:drawableTop="@drawable/ic_tab_home_selector"
+            android:gravity="center"
+            android:text="@string/InvitingAwards"
+            android:textColor="@color/text_selector"
+            android:textSize="10dp"
+            skin:enable="true"
+            tools:ignore="MissingPrefix" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawablePadding="2dp"
+            android:drawableTop="@drawable/ic_tab_home_selector"
+            android:gravity="center"
+            android:text="@string/Mine"
+            android:textColor="@color/text_selector"
+            android:textSize="10dp"
+            skin:enable="true"
+            tools:ignore="MissingPrefix" />
+    </LinearLayout>
+
+</LinearLayout>

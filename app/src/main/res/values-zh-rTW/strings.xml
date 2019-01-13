@@ -1,0 +1,453 @@
+<resources>
+    <string name="app_name">CoinPlay</string>
+    <string name="mine">我的</string>
+    <string name="open_play_record">開獎結果</string>
+    <string name="config">確定</string>
+    <string name="cancel">取消</string>
+    <string name="today">今天</string>
+    <string name="year">年</string>
+    <string name="month">月</string>
+    <string name="day">日</string>
+    <string name="house">時</string>
+    <string name="minute">分</string>
+    <string name="second">秒</string>
+    <string name="buy_success">購買成功</string>
+    <string name="withdrawcash">提現</string>
+    <string name="pay">充值</string>
+    <string name="system_pay">系統充值</string>
+    <string name="system_give">系統贈送</string>
+    <string name="save">保存</string>
+    <string name="sure">確定</string>
+    <string name="complete">完成</string>
+    <string name="language">語言</string>
+    <string name="toast_language_change">語言設置成功</string>
+    <string name="CompanyProfile">公司概況</string>
+    <string name="companyprofile_info">CoinPlay 是壹個由社區構建的共享平臺，首次提出用戶即股東，參與即投資，持有即分紅的理念 同時CoinPlay還是壹款創新的移動端智能互聯產品。 基於當代流行的區塊鏈元素、加密數字資產、通證化經濟，讓用戶可以通過智能手機，身臨其境的感受新事物對於各種感官的沖擊。創新、冒險、果斷、潮流，價值，都將在CoinPlay 中淋漓盡致的得到最強體驗。在參與的同時，用戶還將會獲得主流加密數字資產以及不間斷的額外驚喜。</string>
+    <string name="ContactUs">聯系我們</string>
+    <string name="EnterpriseMail">QQ客服 212238526</string>
+    <string name="Edition">當前版本</string>
+    <string name="Termnumber">期號</string>
+    <string name="Openprice">開盤價</string>
+    <string name="Openprice1">開盤價格</string>
+    <string name="Awardprice">開獎價</string>
+    <string name="Awardprice1">停盤價格</string>
+    <string name="Oldpassword">舊密碼</string>
+    <string name="Newpassword">新密碼</string>
+    <string name="EnterOldpassword">請輸入舊密碼(8-18位字母和數字)</string>
+    <string name="EnterNewpassword">請輸入新密碼(8-18位字母和數字)</string>
+    <string name="ReEnterNewpassword">請再次確認新密碼(8-18位字母和數字)</string>
+    <string name="Forgetpassword">忘記舊密碼？</string>
+    <string name="Forgetpassword1">忘記密碼</string>
+    <string name="ChooseAddress">選擇地址</string>
+    <string name="AddAddress">添加地址</string>
+    <string name="FeedBackInfo">請詳細描述您的問題或建議，我們將及時跟進解決。（建議添加相關問題截圖）</string>
+    <string name="Submission">提交</string>
+    <string name="EnterRegisterPhoneNum">請輸入注冊時的手機號碼</string>
+    <string name="EnterPhoneNum">請輸入手機號碼</string>
+    <string name="SendCode">發送驗證碼</string>
+    <string name="GetCode">獲取驗證碼</string>
+    <string name="VerificationCode">手機驗證碼</string>
+    <string name="imagecode">圖片驗證碼</string>
+    <string name="EnterCode">請輸入驗證碼</string>
+    <string name="SetNewPassword">設置新密碼</string>
+    <string name="SetNewPassword1">請設置新密碼(8-18位字母和數字)</string>
+    <string name="mail">郵箱</string>
+    <string name="password">密碼(8-18位字母和數字)</string>
+    <string name="login">登錄</string>
+    <string name="NewUserRegister">新用戶注冊</string>
+    <string name="Home">首頁</string>
+    <string name="AwardResult">開獎結果</string>
+    <string name="InvitingAwards">邀請獎勵</string>
+    <string name="Mine">我的</string>
+    <string name="DetailsOfTheRecharge">了解充值詳細信息</string>
+    <string name="RechargeAddressOfETH">ETH充值地址：</string>
+    <string name="RechargeAddressOfEOS">EOS充值地址：</string>
+    <string name="CopyAddress">複制地址</string>
+    <string name="Show2DCode">顯示二維碼</string>
+    <string name="ListOfRecharge">充值記錄</string>
+    <string name="CountdownOfAward">開獎倒計時</string>
+    <string name="buy">購買</string>
+    <string name="date">日期</string>
+    <string name="AmountOfRemaid">返傭金額</string>
+    <string name="phone">手機號</string>
+    <string name="phone1">手機</string>
+    <string name="RecommenderID">推薦人ID</string>
+    <string name="IAgreeWithCoinPlay">我同意CoinPlay的</string>
+    <string name="ServiceAgreement">《服務協議》</string>
+    <string name="Register">註冊</string>
+    <string name="AccountAndSecurity">賬戶與安全</string>
+    <string name="ReceiveMessage">接收推送的消息</string>
+    <string name="FeedBack">意見反饋</string>
+    <string name="SafeExit">安全退出</string>
+    <string name="SendtoPhoneNum">已發送至手機號</string>
+    <string name="NotReceiveCode">收不到驗證碼？</string>
+    <string name="ReSend">重新發送</string>
+    <string name="MakeSureToPay">確認支付</string>
+    <string name="Phase">期</string>
+    <string name="AvailableAssets">可提現資産</string>
+    <string name="AmountOfCash">提現金額</string>
+    <string name="FullPresentation">全部提現</string>
+    <string name="AddressOfPresentation">提現金額地址：</string>
+    <string name="ServiceCharge">手續費：</string>
+    <string name="ActualAccount">實際到賬：</string>
+    <string name="RecordOfPresentation">提現記錄</string>
+    <string name="rise">漲</string>
+    <string name="flat">平</string>
+    <string name="fall">跌</string>
+    <string name="AmountOfBuy">購買數量</string>
+    <string name="NetworkConnectionInterruption">網絡連接中斷</string>
+    <string name="Reconnect">重新連接</string>
+    <string name="GetCommission">獲取傭金</string>
+    <string name="ShowTheList">顯示榜單</string>
+    <string name="HideTheList">隱藏榜單</string>
+    <string name="ShareReward">分享有禮</string>
+    <string name="AddressOfRecommend">推薦地址</string>
+    <string name="address">地址</string>
+    <string name="QRCode">二維碼</string>
+    <string name="FriendsOfRecommend">已推薦的朋友</string>
+    <string name="Commission">已獲得的傭金</string>
+    <string name="DetailedRules">遊戲規則</string>
+
+    <string name="EnterpriseInfo"> \u00201. 成功註冊並下載登錄後免費領取 188 TOKEN(PT)。 \n
+        2. 玩家贏取獎金的1%全部100%將回饋給各級邀請人。\n
+3. 註冊玩家享受邀請1人得18PT權益，並不享受分紅獎勵。\n
+4. 黃銅玩家享受邀請1人得88PT權益，享受壹級50%分紅權益。\n
+5. 白銀玩家享受邀請1人得188PT權益，享受壹級50%、二級30%分紅權益。\n
+6. 黑金玩家享受邀請1人得288PT權益，享受壹級50%、二級30%、三級20%分紅權益。\n
+7. 所獲取的TOKEN(PT)可參與平臺指定活動。
+</string>
+    <string name="Attention">特别注意</string>
+    <string name="AttentionInfo">為了建立健康有序的體驗環境，CoinPlay保留隨時懟返擁規則做出雕整的最終解釋權。</string>
+    <string name="NowBetting">本期預測</string>
+    <string name="MyBetting">我的預測</string>
+    <string name="MyGuessing">我的預測</string>
+    <string name="MyWinning">我的中獎金額</string>
+    <string name="InvitingRebate">邀請返利</string>
+    <string name="InvitingRebate1">邀請返傭</string>
+    <string name="Maiist">返傭榜單</string>
+    <string name="TheLatestAward">最新開獎</string>
+    <string name="Login">立即登錄</string>
+    <string name="ChangePassword">更改密碼</string>
+    <string name="Language">語言</string>
+    <string name="About">關于</string>
+    <string name="WinningRecord">預測記錄</string>
+    <string name="bonus">邀請分紅</string>
+    <string name="EverydayBonus">每日分紅</string>
+    <string name="catchCoinRecord">奪幣记录</string>
+    <string name="BettingRecord">預測記錄</string>
+    <string name="CacheClear">清空緩存</string>
+    <string name="TotalAssets">(余額)</string>
+    <string name="BalanceOfToken">(余額)</string>
+    <string name="Setting">設置</string>
+    <string name="Latestprize">最新開獎</string>
+    <string name="PrizePoolAmount">獎池金額(ETH)</string>
+    <string name="JoinUser">參與預測人數(人)</string>
+    <string name="PrizePool">CoinPlay獎池</string>
+
+    <string name="rob_record">參與記錄</string>
+    <string name="win_coin_record">獲獎記錄</string>
+
+
+    <string name="ImmediateBetting">立即預測</string>
+    <string name="ImmediateAward">立即開獎</string>
+    <string name="TokenBetting">PT預測</string>
+    <string name="ETHBetting">ETH預測</string>
+    <string name="LoadMore">加載中...</string>
+    <string name="BettingOrAward">預測/開獎</string>
+    <string name="OpeningLine">開盤線</string>
+    <string name="BTCPrice">BTC價格</string>
+    <string name="Nowprice">當前價格</string>
+    <string name="NextRound">進入下壹輪</string>
+    <string name="invite">邀請返傭</string>
+    <string name="user">歡迎您：</string>
+
+    <string name="about">關於</string>
+    <string name="win_record">中獎記錄</string>
+    <string name="bet_record">預測記錄</string>
+    <string name="betting_history">交易流水</string>
+    <string name="token">PT</string>
+    <string name="eth">ETH</string>
+
+
+    <string name="buy1">買入</string>
+    <string name="won">贏取</string>
+    <string name="invite_dividend">邀請中獎分紅</string>
+    <string name="invite_dividend1">邀請中獎壹級分紅</string>
+    <string name="invite_dividend2">邀請中獎二級分紅</string>
+    <string name="invite_dividend3">邀請中獎三級分紅</string>
+    <string name="pay_back">充值獎勵</string>
+    <string name="change_nick">修改昵稱</string>
+    <string name="dividend">分紅</string>
+    <string name="withdrawaling">提現中</string>
+    <string name="success">成功</string>
+    <string name="fail">提現失敗</string>
+    <string name="registration_award">註冊獎勵</string>
+    <string name="invitation_awards">邀請獎勵</string>
+    <string name="betting_awards">預測獎勵</string>
+
+    <string name="freeze">凍結回收</string>
+    <string name="unknown">未知</string>
+
+    <string name="token_betting">PT 預測 </string>
+    <string name="eth_betting">ETH 預測</string>
+
+    <string name="betting_countdown">預測倒計時</string>
+    <string name="win_countdown">開獎倒計時</string>
+    <string name="next_roud">進入下壹輪</string>
+    <string name="open_line">開盤線</string>
+    <string name="btc_price">BTC價格</string>
+    <string name="notice_home">預測贏大獎，壹分鐘行情，絕對刺激</string>
+    <string name="win_detail">中獎詳情</string>
+    <string name="confirm_withdrawal">確認提現</string>
+    <string name="notice_withdrawal">* 充值最低數量：0.1ETH。\n
+	* 充值成功後，30分鐘內入賬。\n
+	* 充值地址填錯，導致充值失敗的，無法找回。。</string>
+    <string name="notice_pay">* 請勿直接提現至眾籌或ICO地址,提現請求申請成功後，請去郵箱點擊鏈接確認本次提現請求.</string>
+    <string name="register">註冊</string>
+
+    <string name="disagree">您未同意服務協議</string>
+    <string name="true_phone_num">請正確輸入手機號碼</string>
+    <string name="resend">重新發送</string>
+    <string name="sms">短信驗證碼</string>
+    <string name="send_to_phone">已發送至手機號</string>
+    <string name="s_resend">s後重新發送</string>
+    <string name="price_not_null">輸入金額不能為空</string>
+    <string name="not_receive_sms">收不到驗證碼？</string>
+    <string name="withdrawal_success">提現成功</string>
+    <string name="withdrawal_fail">提現失敗</string>
+
+    <string name="change_psw_success">修改密碼成功</string>
+    <string name="change_psw_fail">修改密碼失敗</string>
+    <string name="psw_not_same">兩次輸入的密碼不壹致</string>
+    <string name="pws_length">密碼長度為6-18位</string>
+
+    <string name="friends">已推薦的朋友</string>
+    <string name="limit_hint">限額/提示</string>
+    <string name="choose_address">請選擇提現地址</string>
+    <string name="day_limit">日提現限額：10 ETH</string>
+    <string name="min_limit">最小提現數量：0.1 ETH</string>
+    <string name="day_used">今日已用：</string>
+
+    <string name="address_recommend">推薦地址：</string>
+    <string name="id_recommend">推薦ID：</string>
+    <string name="copy_success">復制成功</string>
+    <string name="QRcode">二維碼</string>
+    <string name="pay_tip">充值提示</string>
+    <string name="link_invite">邀請好友鏈接</string>
+
+    <string name="input_amount">請輸入提現金額</string>
+    <string name="not_enough_amount">您輸入的金額不足</string>
+    <string name="choose_withdrawal_address">請選擇提現地址</string>
+    <string name="check_address">請檢查提現地址是否正確</string>
+
+    <string name="rule_top_up">充值規則</string>
+    <string name="iknow">知道了</string>
+    <string name="rules_top_up">1.充值最低數量：0.1ETH\n2.充值成功後，30分鐘內入帳。\n3.充值地址填錯，導致充值失敗的，無法退回。</string>
+    <string name="rules_top_up_eos">1.充值最低數量：0.1EOS\n2.充值成功後，30分鐘內入帳。\n3.充值地址填錯，導致充值失敗的，無法退回。</string>
+    <string name="login_success">登錄成功</string>
+
+
+    <string name="forget_password">忘記密碼</string>
+    <string name="change_password_success">密碼修改成功</string>
+    <string name="change_password_fail">密碼修改失敗</string>
+    <string name="phone_not_null">手機號不能為空</string>
+    <string name="input_right_phone">請輸入正確手機號碼</string>
+    <string name="code_not_null">驗證碼不正確</string>
+    <string name="newpassword_not_null">新密碼不符合要求</string>
+
+    <string name="null_to_share">沒有什麽可以分享的</string>
+    <string name="coin_play_invite">注冊CoinPlay每天分紅以太坊</string>
+    <string name="link">CoinPlay做為創新的區塊鏈創享機制平臺，為用戶依次提供預測、專業K線、實時行情、資產提升、資源共享等服務，給參與用戶提供專業知識，充分體驗及實際資產價值。</string>
+    <string name="person"> 人</string>
+    <string name="my_balance">我的余額</string>
+    <string name="input_address">請輸入地址</string>
+    <string name="quit">再按壹下退出應用</string>
+
+    <string name="congratulations">恭喜您，在本輪預測中中獎</string>
+    <string name="round_again">再投壹輪</string>
+    <string name="sorry">很抱歉，在本輪預測中未中獎</string>
+
+
+    <string name="select_bet_type">請選擇預測類型</string>
+    <string name="input_bet_amount">請輸入預測金額</string>
+    <string name="In_progress">進行中</string>
+    <string name="Added">該地址已添加</string>
+    <string name="load">加載中...</string>
+    <string name="bet_detail">預測詳情</string>
+    <string name="share_success">分享成功</string>
+    <string name="share_cancel">取消分享</string>
+    <string name="share_fail">分享失敗</string>
+    <string name="link_timeout">網絡鏈接超時</string>
+    <string name="invite_list">邀請獎勵排行榜</string>
+    <string name="mailbox_not_null">郵箱不能為空</string>
+    <string name="password_not_null">密碼輸入不符合要求</string>
+
+    <string name="register_success">恭喜您註冊成功！</string>
+    <string name="mail_send">激活郵件已發送到您的郵箱,請前往郵箱激活</string>
+    <string name="download">下載</string>
+    <string name="resend_mail">未收到郵件?重新發送</string>
+
+
+    <string name="open">展開</string>
+    <string name="close">收起</string>
+    <string name="calculate_detail">計算詳情</string>
+    <string name="catch_prize">奪幣開獎</string>
+    <string name="catch_detail">奪幣詳情</string>
+    <string name="luck_num">我的幸運碼</string>
+    <string name="open_detail">開獎詳情</string>
+    <string name="prewinner">往期獲獎者</string>
+    <string name="luck">幸運</string>
+    <string name="num">號碼</string>
+    <string name="value">數值</string>
+    <string name="need_person">商品總需人</string>
+    <string name="need_person_num">商品總需人數</string>
+    <string name="num1">數</string>
+    <string name="remainder">︵取余數︶</string>
+    <string name="add_pre_num">加上期實時彩開獎結果號碼</string>
+    <string name="calculate_result">計算結果</string>
+    <string name="eth_detail">以太蔽(Ether)，代碼為ETH，可在許多加密貨蔽的外匯市場上交易，也是以太坊上用來支付交易手續費和運算服務費的媒介。</string>
+    <string name="pt_detail">CoinPlay生態代幣(PT)，代碼為PT，是CoinPlay系統發布的基於以太坊的代幣，擁有CoinPlay生態中的權益。</string>
+    <string name="eos_detail">柚子幣(EOS)，代碼為EOS，是基於EOS軟件項目之上發布的代幣，可在許多加密貨幣的交易所上交易。</string>
+
+    <string name="total_need">總需</string>
+    <string name="person_num">人次</string>
+    <string name="surplus">剩余</string>
+    <string name="you_not_participate">您本次未參與奪幣</string>
+    <string name="all_records">所有慘與記錄</string>
+    <string name="Immediate_participate">立即參與</string>
+    <string name="open_prize">已開獎</string>
+    <string name="automatic_award">獲獎後獎金自動派獎到賬戶余額</string>
+    <string name="issue">期號：</string>
+    <string name="open_time">開獎時間：</string>
+    <string name="choose_person">天選之人:</string>
+    <string name="luck_num1">幸運號碼:</string>
+    <string name="current_participate">本期參與:</string>
+    <string name="look_detail">查看詳情</string>
+
+
+    <string name="winner">獲獎者:</string>
+    <string name="btc_forecast">BTC行情預測(ETH專區)</string>
+    <string name="pt_forecast">BTC行情預測(PT專區)</string>
+    <string name="deadline">已截止</string>
+    <string name="eth_1">以太幣(ETH) 1枚</string>
+    <string name="eth_0.01">參與單次0.01ETH</string>
+    <string name="seize">奪</string>
+    <string name="progress">進度：</string>
+
+    <string name="participate">參與了</string>
+
+    <string name="rob_coin">奪幣</string>
+    <string name="rob_coin_win">奪幣中獎</string>
+    <string name="rob_coin_prize">奪幣獎勵</string>
+    <string name="rob_coin_consume">奪幣消費</string>
+
+    <string name="once">參與單次</string>
+
+
+    <string name="reward">獎勵</string>
+    <string name="newVersion">發現新版本  </string>
+    <string name="installation_package_deleted">安裝包已被刪除</string>
+    <string name="upgradeNow">立即升級</string>
+    <string name="install">安裝</string>
+    <string name="downloading">正在下載</string>
+    <string name="upgradeFail">更新失敗，請檢查網酪連接</string>
+
+    <string name="modifyMailbox">修改郵箱</string>
+    <string name="confirmationChange">確認修改</string>
+    <string name="resendSuccess">重新發送成功</string>
+    <string name="changeMailSuccess">修改郵箱成功</string>
+
+    <string name="nextTime">下次再說</string>
+    <string name="updateNow">立即更新</string>
+
+    <string name="instruction">\u00201.挑選參與的幣種及場次。\n
+2.選擇要參與的人次，參與1人次可獲得1個幸運碼，不得超過總人次的50%。\n
+3.參與代幣同參與的奪幣幣種壹樣。\n
+4.當參與人次滿足開獎條件時，則立即開獎。\n
+5.開獎結束後，獎金會立即發放到中獎者賬戶（每次中得獎金扣除5% 手續費），並開始新壹期的參與。\n
+6.平臺將絕大部分的手續費返還給社區貢獻者和PT的持有者。</string>
+
+    <string name="amount_not_enough">當前余額不足，快去充值吧</string>
+    <string name="pay_now">立即充值</string>
+    <string name="di">第</string>
+    <string name="qi">期</string>
+    <string name="get_dividends">分紅獎勵</string>
+    <string name="share_now">立即分享</string>
+    <string name="psw_is_not">新密碼不符合要求</string>
+    <string name="getSuccess">領取成功！</string>
+    <string name="congratulate">恭喜您中獎了！</string>
+    <string name="sorry_not_prize">很遺憾您未中獎！</string>
+
+
+    <string name="eth_area">ETH專區</string>
+    <string name="pt_area">PT專區</string>
+    <string name="eos_area">EOS專區</string>
+    <string name="look_more_play">查看更多場次</string>
+    <string name="rob_coin_area">奪幣專區</string>
+    <string name="copy">復制</string>
+    <string name="remark">備註：</string>
+    <string name="remark2">備註</string>
+    <string name="address_2d">地址二維碼</string>
+    <string name="remark_2d">備註二維碼</string>
+    <string name="you_join_already">您已參與</string>
+    <string name="eth_person">ETH/人次</string>
+    <string name="this_end">本輪已結束</string>
+    <string name="not_more_than_this_play">不能大於本輪剩余人次</string>
+    <string name="not_more_than_this_play_half">不能大於本輪總量的壹半</string>
+    <string name="all_property">總資產</string>
+    <string name="balance">(余額)</string>
+    <string name="not_more_than_6">選擇的幣種不能超過6個</string>
+    <string name="at_last_1">至少保留壹個幣種</string>
+    <string name="currency6_show">最多可添加6個常用幣種顯示</string>
+    <string name="add_already">已添加</string>
+    <string name="delete">/移除</string>
+    <string name="add">添加</string>
+    <string name="add_currency">添加幣種</string>
+    <string name="text_v1">普通用戶</string>
+    <string name="text_v2">黃銅用戶</string>
+    <string name="text_v3">白銀用戶</string>
+    <string name="text_v4">黑金用戶</string>
+
+    <string name="xrp_withdrawal_info">\u00201.請確認目標提幣地址是否存在且被激活，否則將會導致提幣失敗，且資産不可找回。\n
+                    2.請務必仔細核對地址標簽，否則將造成資産損失並不可找回。\n
+                    3.請務必確認提幣環境安全，防止信息被篡改或泄露。</string>
+
+    <string name="xlm_withdrawal_info">\u00201.只支持地址標簽爲MEMO_TEXT的提幣，暫不支持其它類型的地址標簽\n
+                    2.請確認目標提幣地址是否存在且被激活，否則將會導致提幣失敗，且資産不可找回。\n
+                    3.請務必仔細核對地址標簽，否則將造成資産損失並不可找回。\n
+                    4.請務必確認提幣環境安全，防止信息被篡改或泄露。</string>
+
+    <string name="eth_withdrawal_info">\u00201.請不要直接提幣到ICO的眾籌地址，這會導致您無法收取眾籌到的數字資產。\n
+2.提幣到合約地址可能會發生合約執行失敗，將導致轉賬失敗，資產將退回。\n
+3.請務必確認提幣環境安全，防止信息被篡改或泄露。</string>
+
+
+    <string name="eth_pay_info">\u00201.請勿向上述地址充值任何非 ETH 資產，否則資產將不可找回。\n
+2.最小充值金額：0.1 ETH，小於最小金額的充值將不會上賬且無法退回。\n
+3.請務必確認充值環境安全，防止信息被篡改或泄露。</string>
+
+    <string name="eos_pay_info">\u00201.請務必填寫並仔細核對地址標簽，這是您賬戶的唯壹標識，否則資產將不可找回。\n
+2.最小充值金額：0.1 EOS，小於最小金額的充值將不會上賬且無法退回。\n
+3.請務必確認充值環境安全，防止信息被篡改或泄露。</string>
+
+
+    <string name="eos_withdrawal_info">\u00201.最小提幣數量為：10 EOS。\n
+2.請確認提幣地址存在且被激活，否則會導致提幣失敗，且資產不可找回。\n
+3.請務必仔細核對地址標簽，否則將造成資產損失並不可找回。\n
+4.請務必確認提幣環境安全，防止信息被篡改或泄露。</string>
+
+
+    <string name="rules_get_bonus">1級為普通用護，享受邀請1人得18PT 權益；\n
+2級用護為初級玩家，享受邀請1人得88PT,另得A區邀請人贏取獎金的5%分紅權益，共計5%。 \n
+3級用護為中級玩家，享受邀請1人得188pt，另得A區邀請人贏取獎金的5%和B區邀請人贏取獎金的3%權益，共計8%。 \n
+4級用護為高級玩家，享受邀請1人得288pt，另得A區邀請人贏取獎金的5%和B區邀請人贏取獎金的3%權益和C區邀請人贏取獎金的2%，共計10%。
+（A區代表直系邀請人，B區代表A區的直系邀請人，C區代表B區直系邀請人）。</string>
+    <string name="get_now">立即領取</string>
+
+    <string name="min_withdrawal">最小提現數量：</string>
+    <string name="max_withdrawal">日提現限額：</string>
+    <string name="can_withdrawal_amount">可提現金額</string>
+    <string name="can_not_withdrawal">不可提現</string>
+    <string name="receive_amount">收款賬戶：</string>
+
+</resources>

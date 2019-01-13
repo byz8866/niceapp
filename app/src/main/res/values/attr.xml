@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="interval" format="integer" />
+    <attr name="orientation" format="enum">
+        <enum name="horizontal" value="0" />
+        <enum name="vertical" value="1" />
+    </attr>
+    <attr name="autoPlaying" format="boolean" />
+
+    <!-- 末行对齐方式 -->
+    <declare-styleable name="AlignTextView">
+        <attr name="align" format="enum">
+            <enum name="left" value="0" />
+            <enum name="center" value="1" />
+            <enum name="right" value="2" />
+        </attr>
+    </declare-styleable>
+
+    <!-- 标点转换 -->
+    <declare-styleable name="CBAlignTextView">
+        <attr name="punctuationConvert" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="BannerWrapperViewStyleable">
+        <attr name="bannerClipChildren" format="boolean" />
+        <attr name="showIndicator" format="boolean" />
+        <attr name="playDelayTime" format="integer" />
+        <attr name="playAuto" format="boolean" />
+        <attr name="playLoop" format="boolean" />
+        <attr name="indicatorIconSelected" format="reference" />
+        <attr name="indicatorIconNormal" format="reference" />
+        <attr name="heightRate" format="float" />
+        <attr name="viewPageMargin" format="dimension" />
+        <attr name="viewPageHorizonMargin" format="dimension" />
+    </declare-styleable>
+</resources>
